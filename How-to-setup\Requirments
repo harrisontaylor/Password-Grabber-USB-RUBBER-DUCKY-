@@ -1,0 +1,13 @@
+Requirements: 
+
+- DOES NOT REGUIRE TARGET TO HAVE ADMINISTRATION PRIVILEGES-
+
+Must have flashed USB rubber ducky to have the Twin-duck software (to save WebBrowserPassView on the Duck)
+
+Must put the WebBrowserPassView.exe onto the rubber ducky WebBrowserPassView can be downloaded at :http://www.nirsoft.net/utils/web_browser_password.html
+
+Usb rubber ducky must be named 'D'
+
+WebBrowserPassView named 'p' stored on the ducky
+
+Passwords will be saved onto the duck as Passwords.txt
